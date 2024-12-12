@@ -35,7 +35,7 @@ ul {
 }
 
 .nav:hover,
-.nav-active-studio:active,
+.nav:active,
 .address:hover {
   color: #404bbf;
 }
