@@ -48,11 +48,11 @@ ul {
   font-style: normal;
 }
 
-.section1 {
+.section-one {
   background-color: #2e2f42;
 }
 
-.section1-title {
+.section-one-title {
   color: #fff;
   font-weight: 700;
   font-size: 56px;
@@ -61,7 +61,7 @@ ul {
   text-align: center;
 }
 
-.section1-btn {
+.section-one-btn {
   background: #4d5ae5;
   font-weight: 500;
   font-size: 16px;
@@ -70,7 +70,7 @@ ul {
   color: #fff;
 }
 
-.section1-btn:hover {
+.section-one-btn:hover {
   background-color: #404bbf;
 }
 
