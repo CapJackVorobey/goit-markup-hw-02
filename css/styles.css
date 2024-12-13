@@ -52,11 +52,11 @@ ul {
   font-style: normal;
 }
 
-.con-one {
+.a {
   background-color: #2e2f42;
 }
 
-.con-one-title {
+.b {
   color: #fff;
   font-weight: 700;
   font-size: 56px;
@@ -65,7 +65,7 @@ ul {
   text-align: center;
 }
 
-.con-one-btn {
+.c {
   background: #4d5ae5;
   font-weight: 500;
   font-size: 16px;
@@ -75,8 +75,8 @@ ul {
   cursor: pointer;
 }
 
-.con-one-btn:hover,
-.con-one-btn:focus {
+.c:hover,
+.c:focus {
   background-color: #404bbf;
 }
 
