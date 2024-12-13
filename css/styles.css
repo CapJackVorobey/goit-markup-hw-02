@@ -52,11 +52,11 @@ ul {
   font-style: normal;
 }
 
-.a {
+.aaa {
   background-color: #2e2f42;
 }
 
-.b {
+.bbb {
   color: #fff;
   font-weight: 700;
   font-size: 56px;
@@ -65,7 +65,7 @@ ul {
   text-align: center;
 }
 
-.c {
+.ccc {
   background: #4d5ae5;
   font-weight: 500;
   font-size: 16px;
@@ -75,8 +75,8 @@ ul {
   cursor: pointer;
 }
 
-.c:hover,
-.c:focus {
+.ccc:hover,
+.ccc:focus {
   background-color: #404bbf;
 }
 
