@@ -52,11 +52,11 @@ ul {
   font-style: normal;
 }
 
-.section1 {
+.block1 {
   background-color: #2e2f42;
 }
 
-.section1-title {
+.block1-title {
   color: #fff;
   font-weight: 700;
   font-size: 56px;
@@ -65,7 +65,7 @@ ul {
   text-align: center;
 }
 
-.section1-btn {
+.block1-btn {
   background: #4d5ae5;
   font-weight: 500;
   font-size: 16px;
@@ -74,29 +74,29 @@ ul {
   color: #fff;
 }
 
-.section1-btn:hover {
+.block1-btn:hover {
   background-color: #404bbf;
 }
 
-.section2-title {
+.block2-title {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
 }
 
-.section2-text {
+.block2-text {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
 
-.section3 {
+.block3 {
   background-color: #f4f4fd;
 }
 
-.section3-title1 {
+.block3-title1 {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
@@ -104,7 +104,7 @@ ul {
   text-align: center;
 }
 
-.section3-title2 {
+.block3-title2 {
   font-weight: 500;
   font-size: 20px;
   line-height: 120%;
@@ -112,7 +112,7 @@ ul {
   text-align: center;
 }
 
-.section3-text {
+.block3-text {
   font-size: 16px;
   line-height: 150%;
   letter-spacing: 0.02em;
@@ -120,7 +120,7 @@ ul {
   color: #434455;
 }
 
-.section4-title1 {
+.block4-title1 {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
@@ -128,25 +128,25 @@ ul {
   text-align: center;
 }
 
-.section4-title2 {
+.block4-title2 {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
 }
 
-.section4-text {
+.block4-text {
   font-size: 16px;
   line-height: 150%;
   letter-spacing: 0.02em;
   color: #434455;
 }
 
-.footer {
+.bottom {
   background-color: #2e2f42;
 }
 
-.footer-logo {
+.bottom-logo {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
@@ -156,11 +156,11 @@ ul {
   color: #4d5ae5;
 }
 
-.footer-logo-part {
+.bottom-logo-part {
   color: #f4f4fd;
 }
 
-.footer-text {
+.bottom-text {
   font-size: 16px;
   line-height: 150%;
   letter-spacing: 0.02em;
