@@ -73,6 +73,7 @@ ul {
   letter-spacing: 0.04em;
   color: #fff;
   cursor: pointer;
+  font-family: "Roboto", sans-serif;
 }
 
 .piece_button:hover,
@@ -85,6 +86,7 @@ ul {
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 
 .piece_two_text {
@@ -94,11 +96,11 @@ ul {
   color: #434455;
 }
 
-.piece3 {
+.piece_three {
   background-color: #f4f4fd;
 }
 
-.piece3_title1 {
+.piece_three_title_one {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
@@ -106,7 +108,7 @@ ul {
   text-align: center;
 }
 
-.piece3_title2 {
+.piece_three_title_two {
   font-weight: 500;
   font-size: 20px;
   line-height: 120%;
@@ -114,7 +116,7 @@ ul {
   text-align: center;
 }
 
-.piece3_text {
+.piece_three_text {
   font-size: 16px;
   line-height: 150%;
   letter-spacing: 0.02em;
@@ -122,7 +124,7 @@ ul {
   color: #434455;
 }
 
-.piece4_title1 {
+.piece_four_title_one {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
@@ -130,14 +132,14 @@ ul {
   text-align: center;
 }
 
-.piece4_title2 {
+.piece_four_title_two {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
 }
 
-.piece4_text {
+.piece_four_text {
   font-size: 16px;
   line-height: 150%;
   letter-spacing: 0.02em;
