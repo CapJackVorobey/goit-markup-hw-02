@@ -36,7 +36,8 @@ ul {
 
 .navigation:hover,
 .navigation:focus,
-.addr:hover {
+.addr:hover,
+.addr:focus {
   color: #404bbf;
 }
 
