@@ -80,25 +80,25 @@ ul {
   background-color: #404bbf;
 }
 
-.content2-title {
+.piece2_title {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
 }
 
-.content2-text {
+.piece2_text {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
 
-.content3 {
+.piece3 {
   background-color: #f4f4fd;
 }
 
-.content3-title1 {
+.piece3_title1 {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
@@ -106,7 +106,7 @@ ul {
   text-align: center;
 }
 
-.content3-title2 {
+.piece3_title2 {
   font-weight: 500;
   font-size: 20px;
   line-height: 120%;
@@ -114,7 +114,7 @@ ul {
   text-align: center;
 }
 
-.content3-text {
+.piece3_text {
   font-size: 16px;
   line-height: 150%;
   letter-spacing: 0.02em;
@@ -122,7 +122,7 @@ ul {
   color: #434455;
 }
 
-.content4-title1 {
+.piece4_title1 {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
@@ -130,14 +130,14 @@ ul {
   text-align: center;
 }
 
-.content4-title2 {
+.piece4_title2 {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
 }
 
-.content4-text {
+.piece4_text {
   font-size: 16px;
   line-height: 150%;
   letter-spacing: 0.02em;
@@ -148,7 +148,7 @@ ul {
   background-color: #2e2f42;
 }
 
-.bottom-logo {
+.bottom_logo {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
@@ -158,11 +158,11 @@ ul {
   color: #4d5ae5;
 }
 
-.bottom-logo-part {
+.bottom_logo_part {
   color: #f4f4fd;
 }
 
-.bottom-text {
+.bottom_text {
   font-size: 16px;
   line-height: 150%;
   letter-spacing: 0.02em;
