@@ -52,11 +52,11 @@ ul {
   font-style: normal;
 }
 
-.block1 {
+.content1 {
   background-color: #2e2f42;
 }
 
-.block1-title {
+.content1-title {
   color: #fff;
   font-weight: 700;
   font-size: 56px;
@@ -65,7 +65,7 @@ ul {
   text-align: center;
 }
 
-.block1-btn {
+.content1-btn {
   background: #4d5ae5;
   font-weight: 500;
   font-size: 16px;
@@ -74,29 +74,29 @@ ul {
   color: #fff;
 }
 
-.block1-btn:hover {
+.content1-btn:hover {
   background-color: #404bbf;
 }
 
-.block2-title {
+.content2-title {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
 }
 
-.block2-text {
+.content2-text {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
 
-.block3 {
+.content3 {
   background-color: #f4f4fd;
 }
 
-.block3-title1 {
+.content3-title1 {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
@@ -104,7 +104,7 @@ ul {
   text-align: center;
 }
 
-.block3-title2 {
+.content3-title2 {
   font-weight: 500;
   font-size: 20px;
   line-height: 120%;
@@ -112,7 +112,7 @@ ul {
   text-align: center;
 }
 
-.block3-text {
+.content3-text {
   font-size: 16px;
   line-height: 150%;
   letter-spacing: 0.02em;
@@ -120,7 +120,7 @@ ul {
   color: #434455;
 }
 
-.block4-title1 {
+.content4-title1 {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
@@ -128,14 +128,14 @@ ul {
   text-align: center;
 }
 
-.block4-title2 {
+.content4-title2 {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
 }
 
-.block4-text {
+.content4-text {
   font-size: 16px;
   line-height: 150%;
   letter-spacing: 0.02em;
