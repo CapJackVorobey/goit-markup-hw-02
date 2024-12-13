@@ -100,12 +100,18 @@ ul {
   background-color: #f4f4fd;
 }
 
+.piece_three_group {
+  background-color: #fff;
+}
+
 .piece_three_title_one {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
+  text-transform: capitalize;
+  color: #2e2f42;
 }
 
 .piece_three_title_two {
@@ -114,6 +120,7 @@ ul {
   line-height: 120%;
   letter-spacing: 0.02em;
   text-align: center;
+  color: #2e2f42;
 }
 
 .piece_three_text {
